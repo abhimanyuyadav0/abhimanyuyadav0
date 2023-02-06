@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhimanyuyadav006
+- 👋 Hi, I’m @Abhimanyu yadav
 - 👀 I’m interested in Web development
-- 🌱 I’m currently working on Angular
+- 🌱 I’m currently working on React
 - 📫 Contact me on 6387818390 
 - Email me at abhimanyujune3@gmail.com
 
