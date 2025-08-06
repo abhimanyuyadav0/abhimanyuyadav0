@@ -434,12 +434,13 @@
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c27fd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c27fd.gif" width="100" alt="Animated Avatar" />
+
 
 ### 💬 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhimanyuyadav0.github.io)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/your-resume-link)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhimanyu-yadav.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1772MxPSYd-Ub5QINzTpHq9ec_L4vFJWG/view?usp=sharing)
 [![Calendar](https://img.shields.io/badge/📅_Schedule_Call-Book_Now-2196F3?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/abhimanyuyadav)
 
 <br>
@@ -454,7 +455,7 @@
 
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhimanyuyadav0%2Fabhimanyuyadav0&label=Profile%20Visitors&countColor=%2336BCF7&style=for-the-badge&labelStyle=upper)
 
-**✨ "First, solve the problem. Then, write the code." - John Johnson**
+**✨ "First, solve the problem. Then, write the code." - Abhimanyu yadav**
 
 </div>
 
