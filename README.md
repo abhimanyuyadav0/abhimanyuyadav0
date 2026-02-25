@@ -37,7 +37,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/abhimanyu-yadav-362000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abhimanyujune3@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+919670173091)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://abhimanyu-yadav.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://portfolio.developerguilds.com/)
 
 </div>
 
@@ -439,7 +439,7 @@
 
 ### 💬 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhimanyu-yadav.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.developerguilds.com/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1772MxPSYd-Ub5QINzTpHq9ec_L4vFJWG/view?usp=sharing)
 [![Calendar](https://img.shields.io/badge/📅_Schedule_Call-Book_Now-2196F3?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/abhimanyuyadav)
 
