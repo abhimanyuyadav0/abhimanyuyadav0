@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Software+Engineer+%7C+Full+Stack+Developer;⚛️+React+%26+Node.js+Expert+%7C+Team+Leader;🚀+Building+Scalable+Enterprise+Applications;🎯+Passionate+about+Clean+Code+%26+Innovation)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Software+Engineer+%7C+Full+Stack;⚛️+React+%7C+TypeScript+%7C+Node.js;🚀" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -10,8 +10,8 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=abhimanyuyadav0&label=Profile%20Views&color=36BCF7&style=for-the-badge)](https://github.com/abhimanyuyadav0)
-[![Followers](https://img.shields.io/github/followers/abhimanyuyadav0?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27)](https://github.com/abhimanyuyadav0?tab=followers)
+<a href="https://github.com/abhimanyuyadav0" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=abhimanyuyadav0&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" /></a>
+<a href="https://github.com/abhimanyuyadav0?tab=followers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/abhimanyuyadav0?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Followers" /></a>
 </div>
 
 ---
@@ -20,24 +20,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-> *Versatile and results-driven Software Engineer with 3+ years of experience crafting digital solutions*
+> *Building production-grade apps with React 19, TypeScript & Vite. Shipping side projects under Developer Guilds.*
 
 - 🔭 **Currently:** Software Engineer (SDE-1) at **Neuromotion Systems**
-- 👨‍💼 **Leadership:** Led teams of **4+ developers** 
-- 🏗️ **Expertise:** Enterprise-grade **React.js, Node.js & MongoDB** applications
-- 🌱 **Learning:** Advanced **System Design** and **Cloud Architecture**
-- 🎯 **Goal:** Building products that impact **millions of users**
-- 📍 **Location:** Noida, Uttar Pradesh, India
-- ⚡ **Fun fact:** I debug with `console.log()` and I'm proud of it! 😄
+- 👨‍💼 **Leadership:** Led teams of **4+ developers** on enterprise apps
+- 🏗️ **Stack:** React 19 · TypeScript · Node.js · Tailwind v4 · Vite
+- 🌱 **Learning:** System design, Cloud (AWS), Docker
+- 🛠️ **Side projects:** Open-source UI lib (glintly-ui) + SaaS tools at <a href="https://developerguilds.com" target="_blank" rel="noopener noreferrer">developerguilds.com</a>
+- 📍 **Location:** Noida, UP · India
+- ⚡ **Fun fact:** I ship with `console.log()` until the prod bug report arrives 😄
 
 <br clear="right"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/abhimanyu-yadav-362000)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abhimanyujune3@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+919670173091)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://portfolio.developerguilds.com/)
+<a href="https://www.linkedin.com/in/abhimanyu-yadav-362000" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
+<a href="mailto:abhimanyujune3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>
+<a href="tel:+919670173091" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" /></a>
+<a href="https://portfolio.developerguilds.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio" /></a>
 
 </div>
 
@@ -136,14 +136,12 @@
 
 | 🎯 **Category** | 🔧 **Technologies** |
 |-----------------|---------------------|
-| **Frontend Development** | React.js, React Native, Next.js, Redux Toolkit, JavaScript ES6+, TypeScript |
-| **Styling & UI** | Material-UI, Bootstrap, Tailwind CSS, Sass, CSS3, HTML5 |
-| **Backend Development** | Node.js, Express.js, RESTful APIs, GraphQL |
-| **Database Management** | MongoDB, MySQL, Firebase Firestore |
-| **Testing & Quality** | Jest, React Testing Library, Storybook |
-| **Development Tools** | Git, GitHub, VS Code, Webpack, Babel |
-| **Project Management** | JIRA, Agile/Scrum, Code Reviews |
-| **Cloud & Deployment** | AWS, Firebase Hosting, Netlify, Vercel |
+| **Frontend** | React 19, Next.js, TypeScript, Redux Toolkit |
+| **Styling & UI** | Tailwind v4, styled-components, Material-UI, Sass |
+| **Backend** | Node.js, Express.js, REST APIs, Socket.io |
+| **Data & State** | TanStack Query, MongoDB, Firebase, MySQL |
+| **Build & Dev** | Vite, Webpack, Git, ESLint |
+| **Deploy** | Cloudflare Pages, AWS, Vercel, Netlify |
 
 </details>
 
@@ -170,9 +168,9 @@
 - 📚 **Component Libraries** - Built reusable UI component library increasing dev efficiency by 40%
 - 🔗 **Third-party Integrations** - Seamlessly integrated payment gateways and external APIs
 
-**Key Achievements:** 
-- 📈 Improved system performance by **35%**
-- 🚀 Reduced development time by **40%** through reusable components
+**Key work:** 
+- 📈 Performance optimization, modular APIs
+- 🚀 Reusable component library (glintly-ui) across internal products
 
 </details>
 
@@ -190,8 +188,7 @@
 - 👨‍🏫 **Mentorship** - Conducted code reviews and mentored 3 junior developers
 
 **Impact:** 
-- 📊 Increased team productivity by **30%**
-- 🎯 Achieved **98% code quality** score through rigorous reviews
+- 📊 Led team delivery, code reviews, mentorship
 
 </details>
 
@@ -202,10 +199,9 @@
 
 **Software Engineer**
 
-- 🚀 **Production Applications** - Delivered 5+ production-ready apps using modern React stack
-- 🔌 **API Development** - Built secure, modular REST APIs with comprehensive documentation
-- 🤝 **Cross-functional Collaboration** - Worked with designers, PMs, and QA teams
-- ⚡ **Performance Optimization** - Improved app load times by **50%**
+- 🚀 **Production apps** – Shipped 5+ React apps to production
+- 🔌 **REST APIs** – Secure, documented endpoints
+- 🤝 **Cross-functional** – Worked with design, PM, QA
 
 </details>
 
@@ -231,80 +227,124 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
+> **Developer Guilds** — Suite of web apps built with React 19, TypeScript, Vite & Cloudflare Pages
+
 <table>
 <tr>
 <td width="50%">
 
-### 📖 Pearson Technology
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=for-the-badge)](https://workspace-bronte.pearson.com)
-[![Tech Stack](https://img.shields.io/badge/⚛️_React_|_Node.js_|_MongoDB-61DAFB?style=flat-square)](https://workspace-bronte.pearson.com)
+### 💎 Glintly UI
+<a href="https://www.npmjs.com/package/glintly-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/npm-glintly--ui-CB3837?style=flat-square&logo=npm" alt="npm" /></a>
+<a href="https://github.com/abhimanyuyadav0/glintly-ui-lib" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_TS_·_styled--components_·_Tailwind-61DAFB?style=flat-square" alt="Stack" /></a>
 
-**Multi-language Book Reading Platform**
+**Themeable React component library**
 
-🎯 **Features:**
-- 📚 Support for PDF, EPUB & Audio formats
-- 🔖 Smart bookmarking system
-- 🎨 Author content management tools
-- 🌍 Multi-language support
-
-📊 **Impact:** Serves **10K+ daily users**
+- Theme system (light/dark, semantic tokens)
+- WCAG-compliant, tree-shakeable
+- Used across Projexa, Managements, Messanger, Task Deck
 
 </td>
 <td width="50%">
 
-### 🚛 Truckin Digital
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://truckindigital.com)
-[![Tech Stack](https://img.shields.io/badge/⚛️_React_|_Express_|_Socket.io-4CAF50?style=flat-square)](https://truckindigital.com)
+### 📋 Managements
+<a href="https://managements.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-managements.developerguilds.com-4CAF50?style=flat-square" alt="Live" /></a>
+<a href="https://managements.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_TanStack_Query_·_Razorpay_·_Socket.io-4CAF50?style=flat-square" alt="Stack" /></a>
 
-**Real-time Fleet Management**
+**Workforce & company management SaaS**
 
-🎯 **Features:**
-- 📍 Live GPS tracking & route optimization
-- 📊 Advanced analytics dashboard
-- 🔔 Real-time alerts & notifications
-- 📋 Compliance monitoring
-
-📈 **Impact:** Reduced fuel costs by **20%**
+- Superadmin, company & employee dashboards
+- Attendance, tickets, subscriptions, RBAC
+- React Query + glintly-ui + Cloudflare deploy
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💎 Garnet Lanee
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-E91E63?style=for-the-badge)](https://gemlay.com)
-[![Tech Stack](https://img.shields.io/badge/⚛️_Next.js_|_Stripe_|_Firebase-E91E63?style=flat-square)](https://gemlay.com)
+### 💬 Messanger
+<a href="https://messanger.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-messanger.developerguilds.com-25D366?style=flat-square" alt="Live" /></a>
+<a href="https://messanger.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_Socket.io_·_TanStack_Query-25D366?style=flat-square" alt="Stack" /></a>
 
-**Premium Jewelry E-commerce**
+**Real-time messaging app**
 
-🎯 **Features:**
-- 💳 Secure payment gateway integration
-- 🔍 Advanced product filtering
-- 📱 Mobile-responsive design
-- ⭐ Customer review system
-
-💰 **Impact:** **$50K+ monthly** revenue
+- WebSocket-based chat via Socket.io
+- Auth + entitlements-based routing
+- Shared glintly-ui design system
 
 </td>
 <td width="50%">
 
+### 📦 Projexa
+<a href="https://projexa.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-projexa.developerguilds.com-7B2CBF?style=flat-square" alt="Live" /></a>
+<a href="https://projexa.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_Vite_·_ReactFlow_·_MUI-7B2CBF?style=flat-square" alt="Stack" /></a>
+
+**Copy-paste React widget library**
+
+- Calendars, loaders, audio players, games, cards
+- Flowcharts, portfolio templates, theme switcher
+- Built for college & personal projects
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ Task Deck
+<a href="https://taskdeck.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-taskdeck.developerguilds.com-2196F3?style=flat-square" alt="Live" /></a>
+<a href="https://taskdeck.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_TanStack_Query_·_date--fns-2196F3?style=flat-square" alt="Stack" /></a>
+
+**Kanban-style task management**
+
+- Board + Backlog views, project-scoped
+- Protected routes, global search
+- React 19 + glintly-ui + Vite
+
+</td>
+<td width="50%">
+
+### 🌐 Community
+<a href="https://community.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-community.developerguilds.com-FF9800?style=flat-square" alt="Live" /></a>
+<a href="https://community.developerguilds.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19_·_TanStack_Query_·_Axios-FF9800?style=flat-square" alt="Stack" /></a>
+
+**Developer community platform**
+
+- Connect with devs, shared auth
+- Part of the Developer Guilds ecosystem
+- Cross-app navigation (Projexa ↔ Community ↔ Messanger)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🚗 CareEasy
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2196F3?style=for-the-badge)](https://careasy.in)
-[![Tech Stack](https://img.shields.io/badge/⚛️_React_Native_|_Node.js-2196F3?style=flat-square)](https://careasy.in)
+<a href="https://careasy.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-careasy.in-2196F3?style=flat-square" alt="Live" /></a>
+<a href="https://careasy.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_Native_·_Node.js-2196F3?style=flat-square" alt="Stack" /></a>
 
-**Vehicle Services Platform**
+**Vehicle services platform**
 
-🎯 **Features:**
-- 📅 Smart service booking system
-- 📍 Real-time service tracking
-- 💳 Integrated payment solutions
-- ⭐ Service feedback system
+- Smart service booking system
+- Real-time service tracking
+- Integrated payments & feedback
 
-📱 **Impact:** **5K+ app downloads**
+</td>
+<td width="50%">
+
+### 📚 ePrakashak
+<a href="https://eprakashak.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-eprakashak.in-9C27B0?style=flat-square" alt="Live" /></a>
+<a href="https://eprakashak.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_·_Node.js_·_MongoDB-9C27B0?style=flat-square" alt="Stack" /></a>
+
+**Digital education platform**
+
+- E-learning & content management
+- Multi-tenant architecture
+- Built for educators & learners
 
 </td>
 </tr>
 </table>
+
+**More:** <a href="https://portfolio.developerguilds.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://play.google.com/store/apps/details?id=com.dealsplitr.app" target="_blank" rel="noopener noreferrer">DealSplitr (Play Store)</a>
 
 ---
 
@@ -331,7 +371,7 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhimanyuyadav0&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5)](https://github.com/abhimanyuyadav0)
+<a href="https://github.com/abhimanyuyadav0" target="_blank" rel="noopener noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyuyadav0&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -341,8 +381,8 @@
 |---------------|-------------|
 | **Total Commits (2024)** | ![Commits](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Commits&query=$.totalCommits&url=https://api.github.com/search/commits?q=author:abhimanyuyadav0+committer-date:%3E2024-01-01&style=for-the-badge) |
 | **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Repositories&query=$.public_repos&url=https://api.github.com/users/abhimanyuyadav0&style=for-the-badge) |
-| **Code Review PRs** | ![PRs](https://img.shields.io/badge/Code_Reviews-25+-36BCF7?style=for-the-badge) |
-| **Issues Resolved** | ![Issues](https://img.shields.io/badge/Issues_Closed-15+-36BCF7?style=for-the-badge) |
+| **Code Reviews** | ![PRs](https://img.shields.io/badge/Code_Reviews-Active-36BCF7?style=for-the-badge) |
+| **Open Source** | ![OSS](https://img.shields.io/badge/glintly--ui-npm_published-CB3837?style=for-the-badge) |
 
 </div>
 
@@ -363,8 +403,8 @@
 </td>
 <td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-  <br><b>⚡ Performance Expert</b>
-  <br>Improved app performance by 35% on average
+  <br><b>⚡ Performance</b>
+  <br>Optimized load times & bundle sizes
 </td>
 <td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
@@ -402,11 +442,11 @@
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![TypeScript](https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 </div>
 
@@ -439,9 +479,9 @@
 
 ### 💬 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.developerguilds.com/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1772MxPSYd-Ub5QINzTpHq9ec_L4vFJWG/view?usp=sharing)
-[![Calendar](https://img.shields.io/badge/📅_Schedule_Call-Book_Now-2196F3?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/abhimanyuyadav)
+<a href="https://portfolio.developerguilds.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://drive.google.com/file/d/1772MxPSYd-Ub5QINzTpHq9ec_L4vFJWG/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume" /></a>
+<a href="https://calendly.com/abhimanyuyadav" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/📅_Schedule_Call-Book_Now-2196F3?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar" /></a>
 
 <br>
 
@@ -455,7 +495,7 @@
 
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhimanyuyadav0%2Fabhimanyuyadav0&label=Profile%20Visitors&countColor=%2336BCF7&style=for-the-badge&labelStyle=upper)
 
-**✨ "First, solve the problem. Then, write the code." - Abhimanyu yadav**
+**"First, solve the problem. Then, write the code."**
 
 </div>
 
